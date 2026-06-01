@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://workflow.agenthubs.org/sitemap.xml
