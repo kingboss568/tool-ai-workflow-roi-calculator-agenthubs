@@ -1,0 +1,45 @@
+AI Workflow ROI Calculator
+
+AI Workflow ROI Calculator is a practical ai lab workspace for content systems designer teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://workflow.agenthubs.org/
+- https://workflow.agenthubs.org/tool/
+- https://workflow.agenthubs.org/workspace/
+- https://workflow.agenthubs.org/reports/
+- https://workflow.agenthubs.org/guides/
+- https://workflow.agenthubs.org/library/
+- https://workflow.agenthubs.org/templates/
+- https://workflow.agenthubs.org/compare/
+- https://workflow.agenthubs.org/checklists/
+- https://workflow.agenthubs.org/integrations/
+- https://workflow.agenthubs.org/settings/
+- https://workflow.agenthubs.org/plans/
+- https://workflow.agenthubs.org/faq/
+- https://workflow.agenthubs.org/privacy/
+- https://workflow.agenthubs.org/about/
+- https://workflow.agenthubs.org/guides/estimate-token-spend-1/
+- https://workflow.agenthubs.org/guides/draft-a-prompt-system-2/
+- https://workflow.agenthubs.org/guides/compare-model-routes-3/
+- https://workflow.agenthubs.org/guides/plan-batch-capacity-4/
+- https://workflow.agenthubs.org/guides/audit-image-generation-costs-5/
+- https://workflow.agenthubs.org/guides/export-a-workflow-brief-6/
+- https://workflow.agenthubs.org/guides/estimate-token-spend-7/
+- https://workflow.agenthubs.org/guides/draft-a-prompt-system-8/
+- https://workflow.agenthubs.org/guides/compare-model-routes-9/
+- https://workflow.agenthubs.org/guides/plan-batch-capacity-10/
+- https://workflow.agenthubs.org/guides/audit-image-generation-costs-11/
+- https://workflow.agenthubs.org/guides/export-a-workflow-brief-12/
+- https://workflow.agenthubs.org/guides/estimate-token-spend-13/
+- https://workflow.agenthubs.org/guides/draft-a-prompt-system-14/
+- https://workflow.agenthubs.org/guides/compare-model-routes-15/
+- https://workflow.agenthubs.org/guides/plan-batch-capacity-16/
+- https://workflow.agenthubs.org/guides/audit-image-generation-costs-17/
+- https://workflow.agenthubs.org/guides/export-a-workflow-brief-18/
+- https://workflow.agenthubs.org/guides/estimate-token-spend-19/
+- https://workflow.agenthubs.org/guides/draft-a-prompt-system-20/
+- https://workflow.agenthubs.org/guides/compare-model-routes-21/
+- https://workflow.agenthubs.org/guides/plan-batch-capacity-22/
+- https://workflow.agenthubs.org/guides/audit-image-generation-costs-23/
+- https://workflow.agenthubs.org/guides/export-a-workflow-brief-24/
+- https://workflow.agenthubs.org/guides/estimate-token-spend-25/
